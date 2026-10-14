@@ -1,0 +1,150 @@
+{
+  "_nota": "Localidades agrupadas por provincia en el desplegable. Cada una con su portal de clientes (solo links https).",
+  "localidades": [
+    {
+      "nombre": "Concarán",
+      "provincia": "San Luis",
+      "portal": "https://clientes.concaran.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Los Molles",
+      "provincia": "San Luis",
+      "portal": "https://clientes.concaran.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Santa Rosa de Conlara",
+      "provincia": "San Luis",
+      "portal": "https://clientes.concaran.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Tilisarao",
+      "provincia": "San Luis",
+      "portal": "https://clientes.tilisarao.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Naschel",
+      "provincia": "San Luis",
+      "portal": "https://clientes.tilisarao.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Villa del Carmen",
+      "provincia": "San Luis",
+      "portal": "https://clientes.tilisarao.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "San Francisco del Monte de Oro",
+      "provincia": "San Luis",
+      "portal": "https://clientes.sanfrancisco.cabledigital.net.ar/login/main_login.php"
+    },
+    {
+      "nombre": "La Toma",
+      "provincia": "San Luis",
+      "portal": "https://clientes.latoma.cabledigital.net.ar/login/main_login.php"
+    },
+    {
+      "nombre": "Justo Daract",
+      "provincia": "San Luis",
+      "portal": "https://clientes.daract.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Nueva Galia",
+      "provincia": "San Luis",
+      "portal": "https://clientes.dupuy.cabledigital.net.ar/login/main_login.php"
+    },
+    {
+      "nombre": "Buena Esperanza",
+      "provincia": "San Luis",
+      "portal": "https://clientes.dupuy.cabledigital.net.ar/login/main_login.php"
+    },
+    {
+      "nombre": "Carro Quemado",
+      "provincia": "La Pampa",
+      "portal": "https://clientes.huincacable.cabledigital.net.ar/login/main_login.php"
+    },
+    {
+      "nombre": "Luan Toro",
+      "provincia": "La Pampa",
+      "portal": "https://clientes.huincacable.cabledigital.net.ar/login/main_login.php"
+    },
+    {
+      "nombre": "Telén",
+      "provincia": "La Pampa",
+      "portal": "https://clientes.huincacable.cabledigital.net.ar/login/main_login.php"
+    },
+    {
+      "nombre": "Victorica",
+      "provincia": "La Pampa",
+      "portal": "https://clientes.huincacable.cabledigital.net.ar/login/main_login.php"
+    },
+    {
+      "nombre": "Huinca Renancó",
+      "provincia": "Córdoba",
+      "portal": "https://clientes.huincacable.cabledigital.net.ar/login/main_login.php"
+    },
+    {
+      "nombre": "Damián Maisonnave",
+      "provincia": "La Pampa",
+      "portal": "https://clientes.huincacable.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Quetrequén",
+      "provincia": "La Pampa",
+      "portal": "https://clientes.huincacable.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Villa Huidobro",
+      "provincia": "Córdoba",
+      "portal": "https://clientes.huincacable.cabledigital.net.ar/login/main_login.php"
+    },
+    {
+      "nombre": "Bernardo Larroudé",
+      "provincia": "La Pampa",
+      "portal": "https://clientes.antena.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Cnel. Hilario Lagos",
+      "provincia": "La Pampa",
+      "portal": "https://clientes.antena.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Ing. Luiggi",
+      "provincia": "La Pampa",
+      "portal": "https://clientes.antena.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Parera",
+      "provincia": "La Pampa",
+      "portal": "https://clientes.antena.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Realicó",
+      "provincia": "La Pampa",
+      "portal": "https://clientes.antena.cabledigital.net.ar/"
+    },
+    {
+      "nombre": "Esquel",
+      "provincia": "Chubut",
+      "portal": "https://clientes.canal4esquel.com.ar/"
+    },
+    {
+      "nombre": "Trevelin",
+      "provincia": "Chubut",
+      "portal": "https://clientes.canal4esquel.com.ar/"
+    },
+    {
+      "nombre": "Coronel Vidal",
+      "provincia": "Buenos Aires",
+      "portal": "https://clientes.tvcablecolor.com.ar/"
+    },
+    {
+      "nombre": "General Pirán",
+      "provincia": "Buenos Aires",
+      "portal": "https://clientes.tvcablecolor.com.ar/"
+    },
+    {
+      "nombre": "San Jorge",
+      "provincia": "Santa Fe",
+      "portal": "https://clientes.impulsotv.ar/"
+    }
+  ]
+}
