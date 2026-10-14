@@ -20,7 +20,8 @@
       "namespace": "android_app",
       "package_name": "ar.com.redintercable.clientes",
       "sha256_cert_fingerprints": [
-        "8F:D6:D7:7B:F9:01:DC:D9:7A:7F:31:D2:3B:5F:00:6D:79:4E:F9:70:D3:F6:C6:D3:FF:57:43:BB:3F:C8:A9:A5"
+        "8F:D6:D7:7B:F9:01:DC:D9:7A:7F:31:D2:3B:5F:00:6D:79:4E:F9:70:D3:F6:C6:D3:FF:57:43:BB:3F:C8:A9:A5",
+        "23:7C:D6:5E:9D:86:14:0E:EE:7F:13:4F:0B:59:A0:30:E3:86:FC:C9:55:0C:C4:64:15:64:27:4D:9C:1B:77:63"
       ]
     }
   }
