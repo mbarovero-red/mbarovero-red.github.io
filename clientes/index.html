@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Red+ Clientes</title>
+  <meta name="description" content="Entrá al portal de clientes de Red+ de tu localidad.">
+  <meta name="theme-color" content="#1e5fd6">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Red+ Clientes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <header class="top">
+    <div class="logo" aria-hidden="true">R+</div>
+    <div>
+      <h1>Red+ Clientes</h1>
+      <p class="sub">Portal de clientes</p>
+    </div>
+  </header>
+
+  <main>
+    <div id="recordada" class="card recordada" hidden>
+      <p class="mini">Tu localidad</p>
+      <h2 id="recordada-nombre"></h2>
+      <a id="recordada-btn" class="btn ancho">Entrar al portal</a>
+      <button id="cambiar" class="link" type="button">Cambiar de localidad</button>
+    </div>
+
+    <section id="selector" class="card">
+      <h2><label for="localidad">¿En qué localidad tenés el servicio?</label></h2>
+      <select id="localidad">
+        <option value="" disabled selected>Elegí tu localidad…</option>
+      </select>
+      <button id="entrar" class="btn ancho" type="button" disabled>Entrar al portal</button>
+      <p id="vacio" class="mini" hidden></p>
+    </section>
+
+    <div id="instalar" class="card instalar" hidden>
+      <h3>Instalá la app</h3>
+      <p id="instalar-texto"></p>
+      <button id="btn-instalar" class="btn" type="button" hidden>Instalar</button>
+    </div>
+
+    <p class="mini aviso">🔒 Red+ nunca te pide contraseñas ni datos de tarjeta por WhatsApp, mail o llamada.</p>
+    <p class="mini aviso"><a href="privacidad.html">Política de privacidad</a></p>
+  </main>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
